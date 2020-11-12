@@ -1,3 +1,5 @@
+Specific Website Used: https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PS
+
 # PS.csv was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
 # Thu Nov 12 07:24:47 2020
 #
