@@ -7,12 +7,10 @@ Specific Website Used: https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView
 #
 # COLUMN pl_name:           Planet Name
 # COLUMN hostname:          Host Name
-# COLUMN default_flag:      Default Parameter Set
 # COLUMN sy_snum:           Number of Stars
 # COLUMN sy_pnum:           Number of Planets
 # COLUMN disc_year:         Discovery Year
 # COLUMN pl_orbper:         Orbital Period [days]
-# COLUMN pl_orbsmax:        Orbit Semi-Major Axis [au]
 # COLUMN pl_rade:           Planet Radius [Earth Radius]
 # COLUMN pl_radj:           Planet Radius [Jupiter Radius]
 # COLUMN pl_bmasse:         Planet Mass or Mass*sin(i) [Earth Mass]
@@ -20,6 +18,7 @@ Specific Website Used: https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView
 # COLUMN pl_bmassprov:      Planet Mass or Mass*sin(i) Provenance
 # COLUMN pl_eqt:            Equilibrium Temperature [K]
 # COLUMN st_teff:           Stellar Effective Temperature [K]
+# COLUMN st_mass:           Stellar Mass [Solar mass]
 # COLUMN st_rad:            Stellar Radius [Solar Radius]
 # COLUMN st_met:            Stellar Metallicity [dex]
 # COLUMN st_metratio:       Stellar Metallicity Ratio
@@ -28,6 +27,7 @@ Specific Website Used: https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView
 
 # ------------------------- Deleted Columns -------------------------
 #
+# COLUMN default_flag:      Default Parameter Set
 # COLUMN discoverymethod:   Discovery Method
 # COLUMN disc_facility:     Discovery Facility
 # COLUMN soltype:           Solution Type
@@ -36,6 +36,7 @@ Specific Website Used: https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView
 # COLUMN pl_orbpererr1:     Orbital Period Upper Unc. [days]
 # COLUMN pl_orbpererr2:     Orbital Period Lower Unc. [days]
 # COLUMN pl_orbperlim:      Orbital Period Limit Flag
+# COLUMN pl_orbsmax:        Orbit Semi-Major Axis [au]
 # COLUMN pl_orbsmaxerr1:    Orbit Semi-Major Axis Upper Unc. [au]
 # COLUMN pl_orbsmaxerr2:    Orbit Semi-Major Axis Lower Unc. [au]
 # COLUMN pl_orbsmaxlim:     Orbit Semi-Major Axis Limit Flag
@@ -70,7 +71,6 @@ Specific Website Used: https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView
 # COLUMN st_raderr1:        Stellar Radius Upper Unc. [Solar Radius]
 # COLUMN st_raderr2:        Stellar Radius Lower Unc. [Solar Radius]
 # COLUMN st_radlim:         Stellar Radius Limit Flag
-# COLUMN st_mass:           Stellar Mass [Solar mass]
 # COLUMN st_masserr1:       Stellar Mass Upper Unc. [Solar mass]
 # COLUMN st_masserr2:       Stellar Mass Lower Unc. [Solar mass]
 # COLUMN st_masslim:        Stellar Mass Limit Flag
