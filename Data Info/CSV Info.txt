@@ -18,7 +18,6 @@ Specific Website Used: https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView
 # COLUMN pl_bmasse:         Planet Mass or Mass*sin(i) [Earth Mass]
 # COLUMN pl_bmassj:         Planet Mass or Mass*sin(i) [Jupiter Mass]
 # COLUMN pl_bmassprov:      Planet Mass or Mass*sin(i) Provenance
-# COLUMN pl_insol:          Insolation Flux [Earth Flux]
 # COLUMN pl_eqt:            Equilibrium Temperature [K]
 # COLUMN st_teff:           Stellar Effective Temperature [K]
 # COLUMN st_rad:            Stellar Radius [Solar Radius]
@@ -56,6 +55,7 @@ Specific Website Used: https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView
 # COLUMN pl_orbeccenerr1:   Eccentricity Upper Unc.
 # COLUMN pl_orbeccenerr2:   Eccentricity Lower Unc.
 # COLUMN pl_orbeccenlim:    Eccentricity Limit Flag
+# COLUMN pl_insol:          Insolation Flux [Earth Flux]
 # COLUMN pl_insolerr1:      Insolation Flux Upper Unc. [Earth Flux]
 # COLUMN pl_insolerr2:      Insolation Flux Lower Unc. [Earth Flux]
 # COLUMN pl_insollim:       Insolation Flux Limit Flag
