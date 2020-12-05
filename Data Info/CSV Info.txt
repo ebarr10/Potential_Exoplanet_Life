@@ -7,8 +7,6 @@ Specific Website Used: https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView
 #
 # COLUMN pl_name:           Planet Name
 # COLUMN hostname:          Host Name
-# COLUMN sy_snum:           Number of Stars
-# COLUMN sy_pnum:           Number of Planets
 # COLUMN disc_year:         Discovery Year
 # COLUMN pl_orbper:         Orbital Period [days]
 # COLUMN pl_rade:           Planet Radius [Earth Radius]
@@ -28,6 +26,8 @@ Specific Website Used: https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView
 # ------------------------- Deleted Columns -------------------------
 #
 # COLUMN default_flag:      Default Parameter Set
+# COLUMN sy_snum:           Number of Stars
+# COLUMN sy_pnum:           Number of Planets
 # COLUMN discoverymethod:   Discovery Method
 # COLUMN disc_facility:     Discovery Facility
 # COLUMN soltype:           Solution Type
