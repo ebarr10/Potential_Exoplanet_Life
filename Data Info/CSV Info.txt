@@ -9,6 +9,7 @@ Specific Website Used: https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView
 # COLUMN hostname:          Host Name
 # COLUMN disc_year:         Discovery Year
 # COLUMN pl_orbper:         Orbital Period [days]
+# COLUMN pl_orbsmax:        Orbit Semi-Major Axis [au]
 # COLUMN pl_rade:           Planet Radius [Earth Radius]
 # COLUMN pl_radj:           Planet Radius [Jupiter Radius]
 # COLUMN pl_bmasse:         Planet Mass or Mass*sin(i) [Earth Mass]
@@ -36,7 +37,6 @@ Specific Website Used: https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView
 # COLUMN pl_orbpererr1:     Orbital Period Upper Unc. [days]
 # COLUMN pl_orbpererr2:     Orbital Period Lower Unc. [days]
 # COLUMN pl_orbperlim:      Orbital Period Limit Flag
-# COLUMN pl_orbsmax:        Orbit Semi-Major Axis [au]
 # COLUMN pl_orbsmaxerr1:    Orbit Semi-Major Axis Upper Unc. [au]
 # COLUMN pl_orbsmaxerr2:    Orbit Semi-Major Axis Lower Unc. [au]
 # COLUMN pl_orbsmaxlim:     Orbit Semi-Major Axis Limit Flag
