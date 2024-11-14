@@ -1,1 +1,1 @@
-A group project for data analytics in junior year of college in order to figure nout how many planets that we discover could house exoplanetary life
+A 2 person project for a python data analytics class, junior year of college. Goal was to figure out how many planets that we have and will discover could potentially house exoplanetary life
